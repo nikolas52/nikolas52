@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Mikołaj, a Computer Science student hooked on building robust backends with C# and PHP. I’m working towards becoming a Full Stack Developer, leveling up my expertise in ASP.NET Core, Symfony, and SQL. When I’m not coding, you’ll find me pumping iron at the gym or kicking a ball around on the soccer field – nothing beats the thrill of staying active! Take a look at my repos and let’s connect! 🚀</p>
+<p align="left">I'm Mikołaj, a Computer Science student passionate about building robust backends – especially with C# and the .NET ecosystem. I’m working towards becoming a Full Stack Developer, sharpening my skills in ASP.NET Core, Symfony, and SQL. When I’m not coding, you’ll find me lifting weights at the gym or playing soccer – staying active keeps me focused and energized.  🚀</p>
 
 ###
 
